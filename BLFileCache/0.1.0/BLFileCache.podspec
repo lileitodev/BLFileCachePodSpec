@@ -40,4 +40,5 @@ TODO: Add long description of the pod here.
   # s.frameworks = 'UIKit', 'MapKit'
   s.dependency 'CocoaSecurity'
   s.dependency 'YYCache'
+  s.dependency 'AFNetworking'
 end
